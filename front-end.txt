@@ -1,0 +1,4 @@
+"hcm.general_register.movimentation_reason_type_hire": "0 - Teste",
+"hcm.general_register.movimentation_reason_type_status": "1 - estado",
+"hcm.general_register.movimentation_reason_type_pega_essa_vacilao": "2 - Pega essa vacilão",
+"hcm.general_register.movimentation_reason_type_www_marcos_schiochet": "www.marcosschiochet.com.br diretamente da Senior Sistemas",

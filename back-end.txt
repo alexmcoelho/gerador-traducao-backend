@@ -1,0 +1,4 @@
+hcm.general_register.enum_MovimentationReasonType_HIRE= 0 - Teste
+hcm.general_register.enum_MovimentationReasonType_STATUS= 1 - estado
+hcm.general_register.enum_MovimentationReasonType_PEGA_ESSA_VACILAO= 2 - Pega essa vacilão
+hcm.general_register.enum_MovimentationReasonType_WWW_MARCOS_SCHIOCHET= www.marcosschiochet.com.br diretamente da Senior Sistemas
